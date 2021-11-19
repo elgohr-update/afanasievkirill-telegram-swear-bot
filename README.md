@@ -1,6 +1,6 @@
 # Swearing telegram bot [![Build Status](https://travis-ci.org/nvbn/telegram-swear-bot.svg?branch=master)](https://travis-ci.org/nvbn/telegram-swear-bot)
 
-It'll help you to speak like a Chief technology officer 1C &ndash;.
+It'll help you to speak like a Chief technology officer 1C.
 
 You can install bot  with:
 
