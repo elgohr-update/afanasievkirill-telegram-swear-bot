@@ -15,7 +15,7 @@ jobs:
         run: yarn developTest
       - uses: actions/checkout@master
       - name: Publish to registy
-        uses: elgohr/Publish-Docker-Github-Action@master
+        uses: elgohr/Publish-Docker-Github-Action@v5
         with:
           registry: ghcr.io
           name: ghcr.io/afanasievkirill/telegram-swear-bot/leshin-bot
